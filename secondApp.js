@@ -1,4 +1,4 @@
-export function multi(a, b){
+function multi(a, b){
     return(a*b);
 }
-// module.exports = {multi};
+module.exports = {multi};
