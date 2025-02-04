@@ -1,0 +1,6 @@
+
+1. api/file/create
+2. api/mongo/upload
+3. api/mongo/download
+4. api/mongo/upload/admin
+5. api/mongo/checkForChanges
